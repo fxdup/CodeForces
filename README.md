@@ -1,2 +1,2 @@
 # CodeForce
- CodeForce challenges
+ My Code force challenge resolutions
